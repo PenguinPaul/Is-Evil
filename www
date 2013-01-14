@@ -3,5 +3,6 @@ $site = array(
 	'title' => 'The World is Evil',
 	'bgcolor' => 'black',
 	'textcolor' => 'red',
+	'linkcolor' => 'white',
 	'content' => 'Under construction!',
 );
