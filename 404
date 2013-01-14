@@ -3,6 +3,7 @@ $site = array(
 	'title' => '404 - The World is Evil',
 	'bgcolor' => 'black',
 	'textcolor' => 'red',
+	'linkcolor' => 'white',
 	'content' => '<h1>404 Error - Not Found</h1>
 I guess we don\'t think that {site} is evil... yet.  Why not <a href="https://github.com/PenguinPaul/Is-Evil">check us out on GitHub</a> and make an entry for {site}?
 ',
