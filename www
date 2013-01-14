@@ -1,5 +1,6 @@
 $site = array(
 	'logo' => 'http://i.imgur.com/j3zfZ.png',
+	'title' => 'The World is Evil',
 	'bgcolor' => 'black',
 	'textcolor' => 'red',
 	'content' => 'Under construction!',
