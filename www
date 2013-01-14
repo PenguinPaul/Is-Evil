@@ -5,6 +5,6 @@ $site = array(
 	'textcolor' => 'red',
 	'linkcolor' => 'white',
 	'content' => '<h2>THE WORLD IS EVIL</h2>
-Many things in our world that you think are normal and good are ACUTUALLY EVIL!  The GOVERNMENT is evil,  <a href="http://minecraft.is-evil.com">MINE CRAFT</ab> is evil, <a href="http://starwars.is-evil.com">STAR WARS</a> is evil, and MANY MORE!<br />
+Many things in our world that you think are normal and good are ACUTUALLY EVIL!  The GOVERNMENT is evil,  <a href="http://minecraft.is-evil.com">MINE CRAFT</a> is evil, <a href="http://starwars.is-evil.com">STAR WARS</a> is evil, and MANY MORE!<br />
 We will be adding a list of the MOST EVIL things with the BEST articles on how evil they are in the near future!',
 );
