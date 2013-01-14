@@ -4,6 +4,6 @@ $site = array(
 	'bgcolor' => 'black',
 	'textcolor' => 'red',
 	'content' => '<h1>404 Error - Not Found</h1>
-I guess we don't think that {site} is evil... yet.  Why not <a href="https://github.com/PenguinPaul/Is-Evil">check us out on GitHub</a> and make an entry for {site}?
+I guess we don\'t think that {site} is evil... yet.  Why not <a href="https://github.com/PenguinPaul/Is-Evil">check us out on GitHub</a> and make an entry for {site}?
 ',
 );
