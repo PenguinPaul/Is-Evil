@@ -1,0 +1,7 @@
+$site = array(
+	'logo' => 'http://i.imgur.com/j3zfZ.png',
+	'bgcolor' => 'black',
+	'textcolor' => 'red',
+	'description' => 'Revealing the truth about our culture',
+	'content' => 'Under construction!',
+);
