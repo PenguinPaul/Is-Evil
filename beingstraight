@@ -1,0 +1,10 @@
+$site = array(
+  'logo' => 'http://i.imgur.com/cpnXk.png',
+  'title' => 'Straight People are Selfish',
+	'bgcolor' => 'white',
+	'textcolor' => 'black',
+	'linkcolor' => 'gray',
+	'content' => '<h2>Straight People </h2>
+Straight people who get married are selfish because they are overpopulating the Earth and taking all of our resources just so that they can continue their bloodline.
+',
+);
