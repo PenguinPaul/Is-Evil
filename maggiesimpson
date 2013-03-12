@@ -1,0 +1,10 @@
+$site = array(
+  'logo' => 'http://i.imgur.com/H43q9.png',
+  'title' => 'Maggie Simpson is Evil',
+	'bgcolor' => 'yellow',
+	'textcolor' => 'black',
+	'linkcolor' => 'blue',
+	'content' => '<h2>MAGGIE SIMPSON IS EVIL</h2>
+<iframe width="853" height="480" src="http://www.youtube.com/embed/T7tmDOLrjpE?rel=0" frameborder="0" allowfullscreen></iframe>
+',
+);
